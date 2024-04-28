@@ -1,0 +1,5 @@
+.navbar a.active{
+    color: white;
+    --tw-bg-opacity: 1;
+    background-color: rgb(60 179 113 / var(--tw-bg-opacity))
+}
